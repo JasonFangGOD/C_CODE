@@ -1,0 +1,4 @@
+﻿  处理数据.c
+D:\Code\处理数据\处理数据\Processing_data.h(1,1): warning C4828: 文件包含在偏移 0xcb 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\Code\处理数据\处理数据\处理数据.c(55,14): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  处理数据.vcxproj -> D:\Code\处理数据\x64\Debug\处理数据.exe
